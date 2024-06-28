@@ -16,11 +16,11 @@ import Commands from "./pages/commands/Commands";
 
 const router = createBrowserRouter([
     {
-        path: "/",
+        path: "",
         element: <Authentication />,
     },
     {
-        path: "/",
+        path: "",
         element: <Layout />,
         children: [
             { path: "info", element: <Info /> },

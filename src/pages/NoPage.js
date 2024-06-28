@@ -4,7 +4,7 @@ import { Box, Link } from "@mui/material";
 function NoPage() {
   return (
     <Box textAlign="center">
-      <Link href="/">
+      <Link href=".">
         <Box
           component="img"
           alt="404 - Page not found"
