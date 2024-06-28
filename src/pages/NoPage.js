@@ -8,7 +8,7 @@ function NoPage() {
         <Box
           component="img"
           alt="404 - Page not found"
-          src="/images/404.png"></Box>
+          src="images/404.png"></Box>
       </Link>
     </Box>
   );
