@@ -1,0 +1,1 @@
+// Use: https://github.com/Shopify/quilt/tree/main/packages/react-web-worker

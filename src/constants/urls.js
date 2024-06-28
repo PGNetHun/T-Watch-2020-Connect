@@ -1,0 +1,1 @@
+export const StoreUrl = "https://raw.githubusercontent.com/PGNetHun/T-Watch-2020-Store/main/";

@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"search.exclude": {
+			"**/package-lock.json": true
+		},
+		"emmet.includeLanguages": {
+			"javascript": "javascriptreact"
+		}
+	}
+}

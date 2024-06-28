@@ -1,0 +1,9 @@
+export const AccessTokens = "system.accesstokens";
+export const Lock = "system.lock";
+export const Wifi = "system.wifi";
+export const GeoApify = "geoapify";
+export const TomTom = "tomtom";
+export const OpenWeatherMap = "openweathermap";
+export const Spotify = "spotify";
+export const Tiingo = "tiingo";
+export const Here = "here";
