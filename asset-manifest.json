@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/t-watch-2020-connect/static/css/main.e90863a0.css",
+    "main.js": "/t-watch-2020-connect/static/js/main.cc293a8d.js",
+    "static/js/787.1e69859a.chunk.js": "/t-watch-2020-connect/static/js/787.1e69859a.chunk.js",
+    "index.html": "/t-watch-2020-connect/index.html",
+    "main.e90863a0.css.map": "/t-watch-2020-connect/static/css/main.e90863a0.css.map",
+    "main.cc293a8d.js.map": "/t-watch-2020-connect/static/js/main.cc293a8d.js.map",
+    "787.1e69859a.chunk.js.map": "/t-watch-2020-connect/static/js/787.1e69859a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e90863a0.css",
+    "static/js/main.cc293a8d.js"
+  ]
+}
