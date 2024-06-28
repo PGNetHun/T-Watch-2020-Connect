@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.e90863a0.css",
-    "main.js": "./static/js/main.59c8ae30.js",
-    "static/js/787.1e69859a.chunk.js": "./static/js/787.1e69859a.chunk.js",
-    "index.html": "./index.html",
-    "main.e90863a0.css.map": "./static/css/main.e90863a0.css.map",
-    "main.59c8ae30.js.map": "./static/js/main.59c8ae30.js.map",
-    "787.1e69859a.chunk.js.map": "./static/js/787.1e69859a.chunk.js.map"
+    "main.css": "/T-Watch-2020-Connect/static/css/main.e90863a0.css",
+    "main.js": "/T-Watch-2020-Connect/static/js/main.f61ca84e.js",
+    "static/js/787.1e69859a.chunk.js": "/T-Watch-2020-Connect/static/js/787.1e69859a.chunk.js",
+    "index.html": "/T-Watch-2020-Connect/index.html",
+    "main.e90863a0.css.map": "/T-Watch-2020-Connect/static/css/main.e90863a0.css.map",
+    "main.f61ca84e.js.map": "/T-Watch-2020-Connect/static/js/main.f61ca84e.js.map",
+    "787.1e69859a.chunk.js.map": "/T-Watch-2020-Connect/static/js/787.1e69859a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e90863a0.css",
-    "static/js/main.59c8ae30.js"
+    "static/js/main.f61ca84e.js"
   ]
 }
