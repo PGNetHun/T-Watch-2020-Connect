@@ -8,7 +8,7 @@ Hosting: [GitHub Pages](https://pages.github.com/)
 ## Online website
 
 The site is hosted in GitHub Pages: <https://pgnethun.github.io/T-Watch-2020-Connect>
-s
+
 ## Local development setup
 
 1. Install [Git](https://git-scm.com/) and [NodeJS](https://nodejs.org/)
@@ -33,6 +33,6 @@ Any change in source code triggers a rebuild, and site reload.
 ## Host in GitHub Pages
 
 Repository is configured to automatically deploy to GitHub Pages.\
-The build output from which the deployment is done is stored in `gh-pages` branch.
+The build output from which the deployment is done is stored in `gh-pages` branch.\
 
-(Example of hosting React app in GitHub Pages: <https://github.com/gitname/react-gh-pages>)
+Example of hosting a React app in GitHub Pages: <https://github.com/gitname/react-gh-pages>
