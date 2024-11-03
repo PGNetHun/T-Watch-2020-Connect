@@ -5,6 +5,10 @@ Web application to configure T-Watch-2020 device.
 Framework: [ReactJS](https://reactjs.org/) + [Material UI 5](https://mui.com/)\
 Hosting: [GitHub Pages](https://pages.github.com/)
 
+## Online website
+
+The site is hosted in GitHub Pages: <https://pgnethun.github.io/T-Watch-2020-Connect>
+s
 ## Local development setup
 
 1. Install [Git](https://git-scm.com/) and [NodeJS](https://nodejs.org/)
@@ -26,9 +30,7 @@ Any change in source code triggers a rebuild, and site reload.
 |`npm run build`|Builds the app for production to the `build` folder|
 |`npm run deploy`|Deploy React app to GitHub Pages|
 
-## Hosting
-
-The site is hosted in GitHub Pages:<https://pgnethun.github.io/t-watch-2020-connect>
+## Host in GitHub Pages
 
 Repository is configured to automatically deploy to GitHub Pages.\
 The build output from which the deployment is done is stored in `gh-pages` branch.
